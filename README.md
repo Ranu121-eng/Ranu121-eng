@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I'm Ranu Mistri
+<h1>👋 Hi, I'm Ranu Mistri <h1></h1>
 
 B.Tech CSE Student | Aspiring Data Analyst | Python • SQL • Power BI
 
