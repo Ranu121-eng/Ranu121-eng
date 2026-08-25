@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Ranu Mistri <h1></h1>
+<h1>👋 Hi, I'm Ranu Mistri </h1>
 
 <h3> B.Tech CSE Student | Aspiring Data Analyst | Python • SQL • Power BI <h3></h3>
 
@@ -11,7 +11,7 @@
 
 </div>
 
-👩‍💻 About Me
+<h2> 👩‍💻 About Me </h2>
 
 🎓 B.Tech Computer Science & Engineering student
 
@@ -31,7 +31,7 @@
 
 📫 ranumistri021@gmail.com
 
-📊 GitHub Analytics
+<h2>📊 GitHub Analytics </h2>
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 </div>
 
-📈 Contribution Activity
+<h2> 📈 Contribution Activity </h2>
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 
 </div>
 
-🐍 Contribution Graph
+<h2>🐍 Contribution Graph </h2>
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 </div>
 
-🏆 GitHub Achievements
+<h2> 🏆 GitHub Achievements </h2>
 
 <div align="center">
 
@@ -71,7 +71,7 @@
 
 </div>
 
-📌 GitHub Highlights
+<h2> 📌 GitHub Highlights </h2>
 
 <div align="center">
 
@@ -81,9 +81,9 @@
 
 </div>
 
-🚀 Featured Projects
+<h2> 🚀 Featured Projects </h2>
 
-📊 HR Employees Attrition Analysis
+<h3> 📊 HR Employees Attrition Analysis </h3>
 
 Python • Pandas • Matplotlib • Power BI • Data Analysis
 
@@ -91,7 +91,7 @@ Analyzing employee attrition patterns, departments, demographics, job roles and 
 
 🔗 View Project →
 
-📈 Sales Analysis
+<h3> 📈 Sales Analysis </h3>
 
 Power BI • Python • Pandas • Data Visualization
 
@@ -99,7 +99,7 @@ Business-focused sales analysis with data preparation, trend analysis and an int
 
 🔗 View Project →
 
-🛍️ Customer Behavior Analysis
+<h3> 🛍️ Customer Behavior Analysis </h3>
 
 Python • SQL • MySQL • Power BI
 
@@ -107,7 +107,7 @@ Analyzed approximately 3,900 customer shopping records using Python and SQL and 
 
 🔗 View Project →
 
-📱 Mobile Sales Dashboard
+<h3> 📱 Mobile Sales Dashboard </h3>
 
 Power BI • Data Visualization • Business Analytics
 
@@ -115,7 +115,7 @@ Interactive dashboard for analyzing mobile sales performance, trends and product
 
 🔗 View Project →
 
-🌎 Global Superstore Data Analysis
+<h3> 🌎 Global Superstore Data Analysis </h3>
 
 Data Analysis • SQL • Visualization
 
@@ -123,7 +123,7 @@ Explored retail sales and customer data to identify business performance pattern
 
 🔗 View Project →
 
-🛒 Vrinda Store Annual Report
+<h3> 🛒 Vrinda Store Annual Report </h3>
 
 Excel • Pivot Tables • Charts • Slicers
 
@@ -131,9 +131,9 @@ Annual sales analysis report using Excel Pivot Tables, charts and interactive sl
 
 🔗 View Project →
 
-🛠️ Skills & Tools
+<h2> 🛠️ Skills & Tools </h2>
 
-📊 Data Analytics
+<h3> 📊 Data Analytics </h3>
 
 <p>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
@@ -142,7 +142,7 @@ Annual sales analysis report using Excel Pivot Tables, charts and interactive sl
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-🐍 Python & Data Science
+<h3> 🐍 Python & Data Science </h3>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -153,7 +153,7 @@ Annual sales analysis report using Excel Pivot Tables, charts and interactive sl
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-💻 Other Tools
+<h2> 💻 Other Tools </h2>
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -164,7 +164,7 @@ Annual sales analysis report using Excel Pivot Tables, charts and interactive sl
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-📄 Resume
+<h2> 📄 Resume </h2>
 
 <div align="center">
 
@@ -172,7 +172,7 @@ Annual sales analysis report using Excel Pivot Tables, charts and interactive sl
 
 </div>
 
-🤝 Connect With Me
+<h2> 🤝 Connect With Me </h2>
 
 <div align="center">
 
