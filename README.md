@@ -2,7 +2,7 @@
 
 <h1>👋 Hi, I'm Ranu Mistri <h1></h1>
 
-B.Tech CSE Student | Aspiring Data Analyst | Python • SQL • Power BI
+<h3> B.Tech CSE Student | Aspiring Data Analyst | Python • SQL • Power BI <h3></h3>
 
 <p>
 <a href="https://github.com/ranu121-eng"><img src="https://komarev.com/ghpvc/?username=ranu121-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/></a>
