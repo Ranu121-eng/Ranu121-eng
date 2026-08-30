@@ -237,7 +237,7 @@
 
 ## 📄 Resume
 
-[📥 View / Download My Resume](./Resume.pdf)
+[[📥 View / Download My Resume](./Resume.pdf)](https://github.com/Ranu121-eng/Ranu121-eng/blob/main/Final_DA_Resume1.pdf)
 
 </div>
 <h2> 🤝 Connect With Me </h2>
