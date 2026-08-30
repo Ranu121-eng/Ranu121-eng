@@ -162,9 +162,7 @@
 
 ### 📱 Mobile Sales Dashboard
 
-<a href="https://github.com/Ranu121-eng/Mobile_Sales_Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranu121-eng&repo=Mobile_Sales_Dashboard&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/Ranu121-eng/Mobile_Sales_Dashboard">View project
 
 **Tech:** Power BI • Data Visualization • DAX
 
