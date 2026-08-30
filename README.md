@@ -235,7 +235,9 @@
 ---
 <h2> 📄 Resume </h2>
 
-<div align="center">
+## 📄 Resume
+
+[📥 View / Download My Resume](./Resume.pdf)
 
 </div>
 <h2> 🤝 Connect With Me </h2>
