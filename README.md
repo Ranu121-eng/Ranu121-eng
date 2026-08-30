@@ -173,6 +173,7 @@
 ### 🏪 Vrinda Store Annual Report
 
 <a href="https://github.com/Ranu121-eng/Vrinda-Store-Annual-Report">View project
+
 **Tech:** Microsoft Excel • Pivot Tables • Charts • Slicers
 
 > Excel-based annual sales analysis dashboard created to understand sales performance, customer behavior and business trends.
