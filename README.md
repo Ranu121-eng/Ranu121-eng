@@ -94,23 +94,21 @@
 
 ---
 
-## 🔥 Contribution Streak
+<h2>📊 Contribution Streak </h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ranu121-eng&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    height="180"
-  />
+<div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ranu121-eng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ranu121-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranu121-eng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranu121-eng&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
+
+</div>
 ---
 
 <h2> 🏆 GitHub Achievements </h2>
