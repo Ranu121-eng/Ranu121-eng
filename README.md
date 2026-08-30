@@ -239,21 +239,9 @@
 
 ---
 
-# 🎯 Data Analytics Focus
+<h2> 📄 Resume </h2>
 
-```text
-Data Collection
-      ↓
-Data Cleaning
-      ↓
-Exploratory Data Analysis
-      ↓
-SQL Analysis
-      ↓
-Data Visualization
-      ↓
-Dashboard Development
-      ↓
-Business Insights
-      ↓
-Data-Driven Decisions
+<div align="center">
+
+
+</div>
