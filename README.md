@@ -142,7 +142,7 @@
 
 ### 🛒 Amazon Sales Analysis
 
-<a href="https://github.com/Ranu121-eng/Amazon-Sales-Analysis /> View project
+<a href="https://github.com/Ranu121-eng/Amazon-Sales-Analysis" /> View project
 
 **Tech:** Python • Pandas • SQL • Power BI • Excel
 
