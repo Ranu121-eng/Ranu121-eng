@@ -27,7 +27,7 @@
 
 🔍 Interested in data visualization, EDA and business insights
 
-🚀 Currently working on HR Employees Attrition Analysis
+🚀 Currently working on Amazon Sales Analysis
 
 📫 ranumistri021@gmail.com
 
