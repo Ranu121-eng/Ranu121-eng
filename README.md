@@ -96,26 +96,21 @@
 
 ## 🔥 Contribution Streak
 
+## 📊 GitHub Analytics
+
 <p align="center">
   <img
-    height="180"
-    src="https://YOUR-VERCEL-APP.vercel.app/api?username=ranu121-eng&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=ranu121-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
     alt="GitHub Stats"
+    height="180"
   />
 
   <img
-    height="180"
-    src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs?username=ranu121-eng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranu121-eng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
+    height="180"
   />
 </p>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranu121-eng&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
-
-</div>
-
 
 ---
 
