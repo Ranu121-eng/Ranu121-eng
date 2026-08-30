@@ -96,8 +96,6 @@
 
 ## 🔥 Contribution Streak
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ranu121-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
