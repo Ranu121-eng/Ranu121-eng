@@ -1,193 +1,245 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ranu Mistri</h1>
 
-<h1>👋 Hi, I'm Ranu Mistri </h1>
+<h3 align="center">
+  Aspiring Data Analyst | Python | SQL | Excel | Power BI
+</h3>
 
-<h3> B.Tech CSE Student | Aspiring Data Analyst | Python • SQL • Power BI <h3></h3>
-
-<p>
-<a href="https://github.com/ranu121-eng"><img src="https://komarev.com/ghpvc/?username=ranu121-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/></a>
-<a href="https://github.com/ranu121-eng?tab=followers"><img src="https://img.shields.io/github/followers/ranu121-eng?label=Followers&style=flat" alt="Followers"/></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ranu121-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/ranu121-eng">
+    <img src="https://img.shields.io/github/followers/ranu121-eng?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/ranu121-eng?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ranu121-eng?label=Total%20Stars&style=flat&logo=github" alt="GitHub Stars"/>
+  </a>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🔭 Currently working on **Amazon Sales Analysis**
+- 📊 Passionate about **Data Analytics & Business Intelligence**
+- 🌱 Currently learning **Generative AI & AI Tools**
+- 💬 Ask me about **Python, SQL, Excel, Power BI & Data Analytics**
+- 📈 Interested in transforming raw data into **actionable business insights**
+- ⚡ Fun fact: **I enjoy finding insights hidden inside data!**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 📊 Data Analytics
+
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+  </a>
+  <a href="https://www.microsoft.com/microsoft-365/excel">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/>
+  </a>
+</p>
+
+### 💻 Programming & Development
+
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  </a>
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  </a>
+</p>
 
-<h2> 👩‍💻 About Me </h2>
+### 📈 Data Visualization & Machine Learning
 
-🎓 B.Tech Computer Science & Engineering student
+<p align="left">
+  <a href="https://matplotlib.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" alt="Matplotlib"/>
+  </a>
+  <a href="https://seaborn.pydata.org/">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
+  </a>
+  <a href="https://scikit-learn.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/>
+  </a>
+</p>
 
-📊 Aspiring Data Analyst focused on turning raw data into meaningful insights
+---
 
-🐍 Working with Python, Pandas and NumPy for data cleaning and analysis
+# 📊 GitHub Analytics
 
-🗄️ Using SQL/MySQL for querying and business analysis
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranu121-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranu121-eng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p>
 
-📈 Creating dashboards with Power BI and Excel
+---
 
-🤖 Currently learning Generative AI
+# 🔥 Contribution Streak
 
-🔍 Interested in data visualization, EDA and business insights
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ranu121-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-🚀 Currently working on Amazon Sales Analysis
+---
 
-📫 ranumistri021@gmail.com
+# 🏆 GitHub Trophies
 
-<h2>📊 GitHub Analytics </h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ranu121-eng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
+</p>
 
-<div align="center">
+---
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ranu121-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+# 📈 Contribution Activity
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranu121-eng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranu121-eng&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</p>
 
-</div>
+---
 
-<div align="center">
+# 📅 Contribution Graph
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranu121-eng&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranu121-eng&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
 
-</div>
+---
 
-<h2> 📈 Contribution Activity </h2>
+# 📌 Featured Projects
 
-<div align="center">
+### 🛒 Amazon Sales Analysis
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranu121-eng&theme=tokyo-night&hide_border=true&area=true&custom_title=Ranu%27s%20Contribution%20Activity" alt="Contribution Activity Graph"/>
+<a href="https://github.com/Ranu121-eng/Amazon-Sales-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranu121-eng&repo=Amazon-Sales-Analysis&theme=tokyonight&hide_border=true" />
+</a>
 
-</div>
+**Tech:** Python • Pandas • SQL • Power BI • Excel
 
-<h2>🐍 Contribution Graph </h2>
+> Sales data analysis project focused on identifying sales trends, product performance, revenue patterns and actionable business insights.
 
-<div align="center">
+---
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+### 👥 Customer Behavior Analysis
 
-</div>
+<a href="https://github.com/Ranu121-eng/Customer_Behavior_Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranu121-eng&repo=Customer_Behavior_Analysis&theme=tokyonight&hide_border=true" />
+</a>
 
-<h2> 🏆 GitHub Achievements </h2>
+**Tech:** Python • Pandas • MySQL • Power BI
 
-<div align="center">
+> Analyzed customer shopping behavior to identify purchasing patterns, customer segments, product performance and subscription trends.
 
-<img src="https://github-profile-trophy.vercel.app/?username=ranu121-eng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+---
 
-</div>
+### 📱 Mobile Sales Dashboard
 
-<h2> 📌 GitHub Highlights </h2>
+<a href="https://github.com/Ranu121-eng/Mobile_Sales_Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranu121-eng&repo=Mobile_Sales_Dashboard&theme=tokyonight&hide_border=true" />
+</a>
 
-<div align="center">
+**Tech:** Power BI • Data Visualization • DAX
 
+> Interactive Power BI dashboard designed to analyze mobile sales performance, revenue trends and key business KPIs.
 
+---
 
+### 🏪 Vrinda Store Annual Report
 
+<a href="https://github.com/Ranu121-eng/Vrinda-Store-Annual-Report">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranu121-eng&repo=Vrinda-Store-Annual-Report&theme=tokyonight&hide_border=true" />
+</a>
 
-</div>
+**Tech:** Microsoft Excel • Pivot Tables • Charts • Slicers
 
-<h2> 🚀 Featured Projects </h2>
+> Excel-based annual sales analysis dashboard created to understand sales performance, customer behavior and business trends.
 
-<h3> 📊 HR Employees Attrition Analysis </h3>
+---
 
-Python • Pandas • Matplotlib • Power BI • Data Analysis
+# 📂 More Projects
 
-Analyzing employee attrition patterns, departments, demographics, job roles and satisfaction to identify actionable HR insights.
+<p align="center">
+  <a href="https://github.com/Ranu121-eng?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
+  </a>
+</p>
 
-🔗 View Project →
+---
 
-<h3> 📈 Sales Analysis </h3>
+# 📊 GitHub Repository Stats
 
-Power BI • Python • Pandas • Data Visualization
+<p align="center">
 
-Business-focused sales analysis with data preparation, trend analysis and an interactive Power BI dashboard.
+  <img src="https://img.shields.io/github/repos/ranu121-eng?style=for-the-badge&logo=github&label=TOTAL%20REPOS" alt="Total Repositories"/>
 
-🔗 View Project →
+  <img src="https://img.shields.io/github/stars/ranu121-eng?style=for-the-badge&logo=github&label=TOTAL%20STARS" alt="Total Stars"/>
 
-<h3> 🛍️ Customer Behavior Analysis </h3>
+  <img src="https://img.shields.io/github/followers/ranu121-eng?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
 
-Python • SQL • MySQL • Power BI
+</p>
 
-Analyzed approximately 3,900 customer shopping records using Python and SQL and presented insights through Power BI.
+---
 
-🔗 View Project →
+# 🧠 Currently Learning
 
-<h3> 📱 Mobile Sales Dashboard </h3>
+<p align="center">
 
-Power BI • Data Visualization • Business Analytics
+<img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 
-Interactive dashboard for analyzing mobile sales performance, trends and product-level insights.
+<img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge"/>
 
-🔗 View Project →
+<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<h3> 🌎 Global Superstore Data Analysis </h3>
-
-Data Analysis • SQL • Visualization
-
-Explored retail sales and customer data to identify business performance patterns and trends.
-
-🔗 View Project →
-
-<h3> 🛒 Vrinda Store Annual Report </h3>
-
-Excel • Pivot Tables • Charts • Slicers
-
-Annual sales analysis report using Excel Pivot Tables, charts and interactive slicers.
-
-🔗 View Project →
-
-<h2> 🛠️ Skills & Tools </h2>
-
-<h3> 📊 Data Analytics </h3>
-
-<p>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
-<h3> 🐍 Python & Data Science </h3>
+---
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+# 🎯 Data Analytics Focus
 
-<h2> 💻 Other Tools </h2>
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<h2> 📄 Resume </h2>
-
-<div align="center">
-
-
-
-</div>
-
-<h2> 🤝 Connect With Me </h2>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ranu-mistri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/ranumistri"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/ranumistri021"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://leetcode.com/u/ranu_mistri/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.geeksforgeeks.org/profile/ranumise3vg"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-
-</div>
-
-<div align="center">
-
-💡 Turning Data Into Meaningful Insights 📊
-
-Thanks for visiting my profile! ⭐
-
-</div>
+```text
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Exploratory Data Analysis
+      ↓
+SQL Analysis
+      ↓
+Data Visualization
+      ↓
+Dashboard Development
+      ↓
+Business Insights
+      ↓
+Data-Driven Decisions
