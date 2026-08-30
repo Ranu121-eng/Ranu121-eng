@@ -113,7 +113,7 @@
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ranu121-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -130,7 +130,7 @@
 ---
 
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranu121-eng&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
@@ -149,7 +149,7 @@
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
 ### 🛒 Amazon Sales Analysis
 
@@ -199,7 +199,7 @@
 
 ---
 
-# 📂 More Projects
+## 📂 More Projects
 
 <p align="center">
   <a href="https://github.com/Ranu121-eng?tab=repositories">
@@ -209,7 +209,7 @@
 
 ---
 
-# 📊 GitHub Repository Stats
+## 📊 GitHub Repository Stats
 
 <p align="center">
 
