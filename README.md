@@ -229,12 +229,6 @@
 
 <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 </p>
 
 ---
@@ -254,5 +248,23 @@
 
 <div align="center">
 
+</div>
+<h2> 🤝 Connect With Me </h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ranu-mistri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/ranumistri"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/ranumistri021"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ranu_mistri/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.geeksforgeeks.org/profile/ranumise3vg"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+
+</div>
+
+<div align="center">
+
+💡 Turning Data Into Meaningful Insights 📊
+
+Thanks for visiting my profile! ⭐
 
 </div>
