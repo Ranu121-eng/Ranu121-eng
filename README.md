@@ -172,10 +172,7 @@
 
 ### 🏪 Vrinda Store Annual Report
 
-<a href="https://github.com/Ranu121-eng/Vrinda-Store-Annual-Report">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranu121-eng&repo=Vrinda-Store-Annual-Report&theme=tokyonight&hide_border=true" />
-</a>
-
+<a href="https://github.com/Ranu121-eng/Vrinda-Store-Annual-Report">View project
 **Tech:** Microsoft Excel • Pivot Tables • Charts • Slicers
 
 > Excel-based annual sales analysis dashboard created to understand sales performance, customer behavior and business trends.
@@ -217,7 +214,6 @@
 </p>
 
 ---
-<h2> 📄 Resume </h2>
 
 ## 📄 Resume
 
