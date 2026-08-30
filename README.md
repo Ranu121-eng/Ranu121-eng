@@ -152,9 +152,7 @@
 
 ### 👥 Customer Behavior Analysis
 
-<a href="https://github.com/Ranu121-eng/Customer_Behavior_Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranu121-eng&repo=Customer_Behavior_Analysis&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/Ranu121-eng/Customer_Behavior_Analysis">View project
 
 **Tech:** Python • Pandas • MySQL • Power BI
 
