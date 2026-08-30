@@ -94,7 +94,7 @@
 
 ---
 
-<h2>📊 GitHub Analytics </h2>
+## 🔥 Contribution Streak
 
 <p align="center">
   <img
@@ -119,13 +119,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ranu121-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 <h2> 🏆 GitHub Achievements </h2>
 
 <div align="center">
