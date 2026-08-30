@@ -222,16 +222,6 @@
 </p>
 
 ---
-
-# 🧠 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</p>
-
----
 <h2> 💻 Other Tools </h2>
 
 <p>
