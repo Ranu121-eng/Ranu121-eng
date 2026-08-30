@@ -20,7 +20,7 @@
 ---
 
 ## 👩‍💻 About Me
-
+- 🎓 B.Tech Computer Science & Engineering student
 - 🔭 Currently working on **Amazon Sales Analysis**
 - 📊 Passionate about **Data Analytics & Business Intelligence**
 - 🌱 Currently learning **Generative AI & AI Tools**
