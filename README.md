@@ -143,7 +143,7 @@
 ### 🛒 Amazon Sales Analysis
 
 <a href="https://github.com/Ranu121-eng/Amazon-Sales-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranu121-eng&repo=Amazon-Sales-Analysis&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranu121-eng&repo=Amazon-Sales-Analysis&theme=tokyonight&hide_border=true" /> View project
 </a>
 
 **Tech:** Python • Pandas • SQL • Power BI • Excel
