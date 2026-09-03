@@ -26,7 +26,7 @@
 - 🌱 Currently learning **Generative AI & AI Tools**
 - 💬 Ask me about **Python, SQL, Excel, Power BI & Data Analytics**
 - 📈 Interested in transforming raw data into **actionable business insights**
-- ⚡ Fun fact: **I enjoy finding insights hidden inside data!**
+- ⚡ Fun fact: **I enjoy finding insights hidden inside data**
 
 ---
 
