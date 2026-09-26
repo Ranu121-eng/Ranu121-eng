@@ -218,7 +218,7 @@
 
 ## 📄 Resume
 
-<a href= "https://github.com/Ranu121-eng/Ranu121-eng/blob/main/Final_DA_Resume1.pdf">View my resume
+<a href= "https://github.com/Ranu121-eng/Ranu121-eng/blob/main/RANU%20MISTRI_DA1.pdf">View my resume
 
 </div>
 <h2> 🤝 Connect With Me </h2>
